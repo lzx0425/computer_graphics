@@ -1,0 +1,2 @@
+C:\MJB\CS550\SampleFreeGlut2019\Debug\Sample.exe
+C:\Users\lzx\Desktop\cs450\final project\SampleFreeGlut2019\Debug\Sample.exe
